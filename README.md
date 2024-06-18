@@ -26,6 +26,8 @@ The primary goal of this project was to explore the interplay between city bike-
 
 ![bike availability](https://github.com/Asal-zou/Statistical-Modelling-Project/assets/134029102/514f69f6-8da6-4dcd-9e9e-3c1603b11b26)
 
+![bike](https://github.com/Asal-zou/Statistical-Modelling-Project/assets/134029102/451355d7-9c9b-48c2-bb18-8e090f45202f)
+
 
 ### Part 3: Joining Data 🔗
 
@@ -37,7 +39,6 @@ The primary goal of this project was to explore the interplay between city bike-
 
 ![bike](https://github.com/Asal-zou/Statistical-Modelling-Project/assets/134029102/e6a2b76d-5de3-46b0-a765-efc2572d91d7)
 
-![bike](https://github.com/Asal-zou/Statistical-Modelling-Project/assets/134029102/451355d7-9c9b-48c2-bb18-8e090f45202f)
 
 ### Part 4: Building a Model 🏗️
 
