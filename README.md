@@ -58,6 +58,10 @@ The primary goal of this project was to explore the interplay between city bike-
   - Parks have a significant effect on the model based on their p-value.
   - The R and R-squared values were very low, indicating that POIs didn't have much effect on bike availability in general.
 
+ <img width="1109" alt="Screenshot 2024-06-18 at 12 14 09 PM" src="https://github.com/Asal-zou/Statistical-Modelling-Project/assets/134029102/4bcdbc7b-5ec5-462e-b925-927c3328557d">
+
+  
+
 ## Challenges ⚠️
 
 - Retrieving accurate information about POIs directly after using the API.
